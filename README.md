@@ -1,21 +1,23 @@
-🐍 Functions in Python
-This guide provides a hands-on introduction to Functions in Python, covering fundamental concepts such as defining functions, parameters, return values, loops, and scope.
+## 🐍 Functions in Python  
 
-🎯 What You'll Learn
-✅ Define and call functions
-✅ Use parameters and return values effectively
-✅ Explore built-in functions and their applications
-✅ Implement loops inside functions
-✅ Understand variable scope and lifetime
+This guide provides a hands-on introduction to **Functions in Python**, covering fundamental concepts such as defining functions, parameters, return values, loops, and scope.  
 
-Perfect for beginners looking to strengthen their Python programming skills! 🚀
+## 🎯 What You'll Learn  
+✅ **Define and call functions**  
+✅ **Use parameters and return values effectively**  
+✅ **Explore built-in functions and their applications**  
+✅ **Implement loops inside functions**  
+✅ **Understand variable scope and lifetime**  
 
-📌 Estimated Time: 30–40 minutes
-📂 Topics Covered
-📌 Defining and Calling Functions
-📌 Using Parameters and Return Values
-📌 Exploring Built-in Functions
-📌 Implementing Loops in Functions
-📌 Understanding Variable Scope
+Perfect for beginners looking to strengthen their **Python programming skills!** 🚀  
 
-💡 Dive into the code and start experimenting! 🔥
+## 📌 Estimated Time: **30–40 minutes**  
+
+## 📂 Topics Covered  
+📌 **Defining and Calling Functions**  
+📌 **Using Parameters and Return Values**  
+📌 **Exploring Built-in Functions**  
+📌 **Implementing Loops in Functions**  
+📌 **Understanding Variable Scope**  
+
+💡 **Dive into the code and start experimenting!** 🔥  
